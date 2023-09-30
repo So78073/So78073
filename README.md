@@ -19,9 +19,6 @@
 
 ###  ﾠ----------------------------------------------------------------------------------------------------------------
 
-
-###
-
 <div>
   <a href="https://github.com/So78073">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So78073&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
