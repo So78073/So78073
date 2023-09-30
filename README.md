@@ -15,7 +15,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![json-web-tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-1[GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
@@ -43,7 +43,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srpedroyshisuk1@gmail.com)
 <div> 
 
-And i love [![Toyota](https://aleen42.github.io/badges/src/toyota.svg)
+And i love ![Toyota](https://aleen42.github.io/badges/src/toyota.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=thanks+for+the+visit+!!)](https://git.io/typing-svg)
 
