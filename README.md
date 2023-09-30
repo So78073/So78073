@@ -24,8 +24,6 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=thanks+for+the+visit+!!)](https://git.io/typing-svg)
-
 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -35,5 +33,8 @@
   ### Redes abaixo!
  
 <div> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=thanks+for+the+visit+!!)](https://git.io/typing-svg)
+
 
  </div>
