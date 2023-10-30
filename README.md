@@ -19,7 +19,7 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
-###  ﾠ----------------------------------------------------------------------------------------------------------------
+###  ﾠ----------------------------------------
 
 <div>
   <a href="https://github.com/So78073">
@@ -31,7 +31,7 @@
 
 </div>
  
-###  ﾠ----------------------------------------------------------------------------------------------------------------
+###  ﾠ----------------------------------------
 
 
 
