@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+My+name+is+Pedro+Soares+de+Assis+!)](https://git.io/typing-svg)
 
 ### -- Technologies --  
-<br>certificate:<br>
+<br>Certificate:<br>
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 
