@@ -33,34 +33,34 @@
 ![json-web-tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br>games:<br>
+<br>OSs:<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br><br><br>
+<br><br>
 
 <div>
   <a href="https://github.com/So78073">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So78073&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block">
 
+<br><br>
 
-</div>
+### Sobre mim ^^ !
+Sou programador desde os 9 anos de idade e sempre fui curioso, o que me levou a aprender um pouco de tudo, desde a criação de jogos até mesmo aplicações ou páginas web. Atualmente, meu sonho é me tornar um desenvolvedor full-stack. Amo o que faço e estou sempre aprendendo novas tecnologias.
+
+Morei com meu pai em BH, onde aprendi uma variedade de coisas, como o aperfeiçoamento dos meus códigos, já que ele era um excelente desenvolvedor. Também aprendi a consertar diversas coisas, pois ele tinha uma loja de consertos gerais, então aprendi a consertar desde micro-ondas até mesmo mineradoras de BTC. Estou ansioso para entrar no mercado como desenvolvedor e mal posso esperar que isso aconteça
+    <br><br>
  
-  ### Redes abaixo!
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shizu77)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5534991261878)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shizu_2jz_turbao_fds)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srpedroyshisuk1@gmail.com)
-<div> 
+  ### Contatos abaixo!
+
+  * Whatsapp: 34 991261878
+  * Email: pedrosoares10100@gmail.com
+
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=thanks+for+the+visit+!!)](https://git.io/typing-svg)
 
-
- </div>
