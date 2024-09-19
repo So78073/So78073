@@ -45,14 +45,6 @@
   <a href="https://github.com/So78073">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So78073&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<br><br>
-
-### Sobre mim ^^ !
-Sou programador desde os 9 anos de idade e sempre fui curioso, o que me levou a aprender um pouco de tudo, desde a criação de jogos até mesmo aplicações ou páginas web. Atualmente, meu sonho é me tornar um desenvolvedor full-stack. Amo o que faço e estou sempre aprendendo novas tecnologias.
-
-Morei com meu pai em BH, onde aprendi uma variedade de coisas, como o aperfeiçoamento dos meus códigos, já que ele era um excelente desenvolvedor. Também aprendi a consertar diversas coisas, pois ele tinha uma loja de consertos gerais, então aprendi a consertar desde micro-ondas até mesmo mineradoras de BTC. Estou ansioso para entrar no mercado como desenvolvedor e mal posso esperar que isso aconteça
-    <br><br>
  
   ### Contatos abaixo!
 
